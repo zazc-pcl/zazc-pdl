@@ -1,0 +1,28 @@
+{
+    "id": "78748304",
+    "name": "Sun",
+    "author": "Zoiter Process",
+    "verifier": "Zoiter Process",
+    "desc": "",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "yt.be",
+            "user": "YalZu"
+        },
+        {
+            "percent": "100",
+            "link": "yt.be",
+            "user": "Kozia"
+        },
+        {
+            "percent": "100",
+            "link": "yt.be",
+            "user": "DragoonSlayer"
+        }
+    ]
+}
