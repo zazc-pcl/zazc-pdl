@@ -6,7 +6,7 @@
     "desc": "",
     "percentToQualify": "100",
     "handcam": false,
-    "hacked": false,
+    "hacked": true,
     "verificationVid": "",
     "records": [
     ]
